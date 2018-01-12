@@ -1,3 +1,3 @@
-### Sites - 436 - 2017
+### GitHub Pages
 
-Sites material developed for CS.
+This is the repository for the *csteach436* GitHub pages site.
